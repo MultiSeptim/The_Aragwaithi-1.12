@@ -1,48 +1,51 @@
+#
+# TreefeedXavier <treefeed@mail.ru>, 2014.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: The_Aragwaithi-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-10 00:47-0500\n"
-"PO-Revision-Date: 2012-09-28 02:15+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2014-03-22 21:20+0200\n"
+"Last-Translator: TreefeedXavier <treefeed@mail.ru>\n"
+"Language-Team: русский <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\n"
 
 #. [era]: id=TA
 #: The_Aragwaithi/_main.cfg:20
 msgid "Default + Aragwaithi"
-msgstr ""
+msgstr "Основные + Эрагвийцы"
 
 #. [era]: id=TA_AOH
 #: The_Aragwaithi/_main.cfg:37
 msgid "Heroes + Aragwaithi"
-msgstr ""
+msgstr "Герои + Эрагвийцы"
 
 #. [multiplayer_side]: id=Aragwaithi, type=Aragwaith Flagbearer
 #. [multiplayer_side]: id=Aragwaithi_AoH, type=Aragwaith Captain
 #: The_Aragwaithi/faction-aoh.cfg:4 The_Aragwaithi/faction.cfg:4
 msgid "Aragwaithi"
-msgstr ""
+msgstr "Эрагвийцы"
 
 #. [race]: id=aragwaith
 #: The_Aragwaithi/race.cfg:5
 msgid "race^Aragwaith"
-msgstr ""
+msgstr "Эрагвиец"
 
 #. [race]: id=aragwaith
 #: The_Aragwaithi/race.cfg:6
 msgid "race+female^Aragwaith"
-msgstr ""
+msgstr "Эрагвайка"
 
 #. [race]: id=aragwaith
 #: The_Aragwaithi/race.cfg:7
 msgid "race^Aragwaithi"
-msgstr ""
+msgstr "Эрагвийцы"
 
 #. [race]: id=aragwaith
 #: The_Aragwaithi/race.cfg:11
@@ -65,26 +68,45 @@ msgid ""
 "magic not to be underestimated in the battlefield, for it has surprised and "
 "overseded the best magi often."
 msgstr ""
+"На протяжении основной части Золотого Века, люди, населявшие Великий "
+"континент были, в основном, выходцами из Веснота, расселившимися по разным "
+"землям, таким как Северные Земли, Эленсефар и, собственно, королевство "
+"Веснот. Однако, когда настало время больших потрясений, неведомо откуда "
+"появилась новая раса людей. Они звались \"Эрагвийцы\", что означало на их "
+"родном языке: \"благородный\"\n"
+"\n"
+"Слухи, ходившие в то время, утверждали, что они прибыли из-за Великого "
+"океана, чтобы обосноваться в Весноте. До Падения они жили, в основном, как "
+"наемники. После этого они, предположительно, перебрались в северные земли "
+"Континента, до которых не смогли добраться пески, и где могла уцелеть "
+"растительность.\n"
+"\n"
+"Хотя они и являются людьми, многие из их обычаев и расовых особенностей "
+"невероятно отличаются от общепринятых. Наблюдавшие за их ловкостью в "
+"обращении с луком, говорят, что они в этом умении гораздо ближе к эльфам. Их "
+"мудрецы владеют магией с мастерством, которое не следует недооценивать на "
+"поле боя. Их умения частенько удивляли и приводили в замешательство лучших "
+"из магов."
 
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Ancient_Banner.cfg:5
 msgid "Ancient Banner"
-msgstr ""
+msgstr "Древний стяг"
 
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Ancient_Banner.cfg:30
 msgid "TODO"
-msgstr ""
+msgstr "Сделать"
 
 #. [attack]: type=blade
 #: The_Aragwaithi/units/Aragwaith_Ancient_Banner.cfg:43
 msgid "scythe"
-msgstr ""
+msgstr "коса"
 
 #. [unit_type]: id=Aragwaith Archer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Archer.cfg:5
 msgid "Archer"
-msgstr ""
+msgstr "Лучник"
 
 #. [unit_type]: id=Aragwaith Archer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Archer.cfg:19
@@ -94,11 +116,15 @@ msgid ""
 "exception. Their skills with a bow are comparable to those of some elves, "
 "and they are remarkably quick with their daggers."
 msgstr ""
+"Эрагвийцы - благородный народ, изящные телом, но при этом их выучка делает "
+"их практически самыми смертоносными обитателями этого мира. Их лучники - не "
+"исключение. Их умение обращаться с луком сравнимо  с таковым у некоторых из "
+"эльфов, и они удивительно проворны в обращении со своими кинжалами."
 
 #. [unit_type]: id=Aragwaith Captain, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Captain.cfg:5
 msgid "Captain"
-msgstr ""
+msgstr "Капитан"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -108,12 +134,12 @@ msgstr ""
 #: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:38
 #: The_Aragwaithi/units/Aragwaith_Slayer.cfg:31
 msgid "glaive"
-msgstr ""
+msgstr "палаш"
 
 #. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:5
 msgid "Eagle Master"
-msgstr ""
+msgstr "Мастер-сокольник"
 
 #. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:20
@@ -122,17 +148,20 @@ msgid ""
 "their winged friend become so strong that they act as one. As Eagle masters, "
 "they no longer need to give orders to their mounts, those anticipate them."
 msgstr ""
+"Набираясь опыта, сокольники становятся более мудрыми и связь с их крылатым "
+"другом становится такой сильной, что они действуют как один организм. "
+"Мастера-сокольники больше не отдают приказы вслух - птица и так понимает их."
 
 #. [attack]: type=impact
 #: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:37
 #: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:34
 msgid "prey crush"
-msgstr ""
+msgstr "схватить добычу"
 
 #. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
-msgstr ""
+msgstr "Сокольник"
 
 #. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:20
@@ -142,11 +171,15 @@ msgid ""
 "enough, they usually willing to serve as a mount for their best friend, and "
 "their young mates learn the art of riding these giant birds."
 msgstr ""
+"Некоторые юные Эрагвийцы подбирают молодых орлов в качестве питомцев. Это не "
+"обычные орлы, а благородные, большекрылые охотничьи птицы. Когда они "
+"достаточно подрастают, они обычно желают служить другу в качестве "
+"перевозчика, а их юные друзья обучаются искусству верховой езды на птицах."
 
 #. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
-msgstr ""
+msgstr "Знаменосец"
 
 #. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:24
@@ -155,11 +188,14 @@ msgid ""
 "lead and inspire the soldiers. They are also skilled with the glaive, which "
 "makes them dangerous in combat too."
 msgstr ""
+"Знаменосцы - лидеры на поле боя. Над ними развеваются широкие знамёна, что "
+"ведут и вдохновляют солдат. Они так же опытны в обращении с палашом, что "
+"делает их весьма опасными в битве."
 
 #. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Greatbow.cfg:5
 msgid "Greatbow"
-msgstr ""
+msgstr "Великий лучник"
 
 #. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Greatbow.cfg:20
@@ -172,11 +208,18 @@ msgid ""
 "pull these bows, anyone but the crafter who attempts to draw it could suffer "
 "serious injury."
 msgstr ""
+"Наконец перейдя от кортика и кинжала к мечу, великий лучник превосходит "
+"сильного лучника в ближнем бою, хотя и не так силён, как Губитель. Его лук, "
+"однако, является шедевром военного дизайна. На создание каждого лука "
+"тратятся несколько месяцев, и каждый лук изготовлен лично владельцем, "
+"адаптированный к индивидуальным нуждам носителя. В связи с невероятной "
+"силой, необходимой, для обращения с этим луком, кто-либо, кроме создателя, "
+"попытавшийся натянуть тетиву - получал тяжёлые увечья."
 
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Guard.cfg:5
 msgid "Guard"
-msgstr ""
+msgstr "Гвардеец"
 
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Guard.cfg:26
@@ -186,26 +229,30 @@ msgid ""
 "peace, or on the battlefield in times of war, their role is always the same: "
 "defending the Wizard nobility."
 msgstr ""
+"Отобранные среди талантливых меченосцев, гвардейцы добровольно отказываются "
+"от лёгкости движений в пользу брони. Не важно: во время мирных церемоний или "
+"на поле боя в военное время, их задача всегда одинакова - защищать "
+"благородство Волшебников."
 
 #. [unit_type]: id=Aragwaith Guardian, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Guardian.cfg:5
 msgid "Guardian"
-msgstr ""
+msgstr "Страж"
 
 #. [unit_type]: id=Aragwaith Lancer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Lancer.cfg:5
 msgid "Lancer"
-msgstr ""
+msgstr "Улан"
 
 #. [female]
 #: The_Aragwaithi/units/Aragwaith_Lancer.cfg:172
 msgid "female^Lancer"
-msgstr ""
+msgstr "Уланка"
 
 #. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:5
 msgid "Longswordsman"
-msgstr ""
+msgstr "Мечник"
 
 #. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:18
@@ -216,32 +263,37 @@ msgid ""
 "adopted a longer blade than the Swordsmen, yet they are able to wield it "
 "with equal grace and skill."
 msgstr ""
+"Если Эрагвийские меченосцы считаются уникальными в мастерстве клинка среди "
+"других рас, то сами эрагвийцы восхищаются мечниками. Эти войны стали "
+"настолько искусны в мастерстве выпадов и парирования, что они вооружились "
+"более длинными клинками, чем меченосцы, но всё же обращаются с этим оружием "
+"с той же грацией и сноровкой."
 
 #. [attack]: type=blade
 #: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:26
 #: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:77
 msgid "longsword"
-msgstr ""
+msgstr "длинный меч"
 
 #. [unit_type]: id=Aragwaith Pikeman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Pikeman.cfg:5
 msgid "Pikeman"
-msgstr ""
+msgstr "Пикинёр"
 
 #. [unit_type]: id=Aragwaith Scout, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Scout.cfg:5
 msgid "Scout"
-msgstr ""
+msgstr "Разведчик"
 
 #. [female]
 #: The_Aragwaithi/units/Aragwaith_Scout.cfg:67
 msgid "female^Scout"
-msgstr ""
+msgstr "Разведчица"
 
 #. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Shield_Guard.cfg:5
 msgid "Shield Guard"
-msgstr ""
+msgstr "Гвардеец со щитом"
 
 #. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Shield_Guard.cfg:28
@@ -253,21 +305,26 @@ msgid ""
 "these ancient shields to remind the world and to honor these brave man and "
 "their sacrifice."
 msgstr ""
+"Эти войны носят старые щиты своих предков. Их древние родичи могли держать "
+"оборону в великих сражениях пока не подоспеет подкрепление, но платили "
+"страшную цену, поскольку не многие выживали, а большинство умирало от "
+"тяжёлых ран. В наши дни только лучшим войнам разрешается носить эти древние "
+"щиты, как память об этих бравых людях и их жертвах."
 
 #. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Silver_Shield.cfg:5
 msgid "Silver Shield"
-msgstr ""
+msgstr "Серебристый щит"
 
 #. [female]
 #: The_Aragwaithi/units/Aragwaith_Silver_Shield.cfg:279
 msgid "female^Silver Shield"
-msgstr ""
+msgstr "Серебристый щит"
 
 #. [unit_type]: id=Aragwaith Slayer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Slayer.cfg:9
 msgid "Slayer"
-msgstr ""
+msgstr "Губитель"
 
 #. [unit_type]: id=Aragwaith Slayer, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Slayer.cfg:24
@@ -277,11 +334,15 @@ msgid ""
 "in hand-to-hand combat. He is not as rugged as others of comparable skill, "
 "but far deadlier."
 msgstr ""
+"Хотя и незначительно увеличивают силу своей стрельбы, Губители отказываются "
+"от клинков в пользу палашей, улучшая искусность в драке один-на-один. Они не "
+"так непробиваемы, как другие с подобными навыками, но зато намного "
+"смертоноснее."
 
 #. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:5
 msgid "female^Sorceress"
-msgstr ""
+msgstr "Колдунья"
 
 #. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:20
@@ -294,11 +355,18 @@ msgid ""
 "distance. And so it happens that even the Royal orders of Wesnothian magi "
 "treat these noble lores with respect and caution."
 msgstr ""
+"Могущественная колдунья Эрагвайцев грациозна как ветер. Она может заморочить "
+"своих противников, стоя перед ними, и кажущейся такой беззащитной; но когда "
+"атакующий наносит удар, он замечает, что жертва стоит за ним, готовая "
+"нанести свой собственный смертельный удар. На поле боя эти колдуньи - "
+"страшные враги; даже их товарищи следят за ними, осторожно, с безопасного "
+"расстояния. И случается, что даже Королевские ордена магов Веснота относятся "
+"к этим благородным ведуньям с уважением и осторожностью."
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Spearman.cfg:5
 msgid "Spearman"
-msgstr ""
+msgstr "Копьеносец"
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Spearman.cfg:19
@@ -308,11 +376,15 @@ msgid ""
 "knights have found themselves or their mounts impaled on the point of an "
 "Aragwaithi spear."
 msgstr ""
+"Менее ловкие и сильные Эрагвийцы берутся за копьё. полезное в охоте, это "
+"оружие так же смертоносно и на поле боя. Многие стремительные рыцари, "
+"обнаруживали себя или их лошадей пронзенными или пригвождёнными эрагвийскими "
+"копьями."
 
 #. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Strongbow.cfg:5
 msgid "Strongbow"
-msgstr ""
+msgstr "Сильный лучник"
 
 #. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Strongbow.cfg:18
@@ -322,11 +394,15 @@ msgid ""
 "longer than the daggers used by the typical archer, and they wield them far "
 "more effectively."
 msgstr ""
+"Имея более мощный лук и почти непрерывно совершенствуя своё мастерство, "
+"сильный эрагвийский лучник способен смертельно поразить врага на значительно "
+"большей дистанции чем средний стрелок. Его кортик длиннее чем кинжал, "
+"используемый типичным стрелком, и владеет он им намного искуснее."
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:5
 msgid "Swordsmaster"
-msgstr ""
+msgstr "Мастер клинка"
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:19
@@ -340,11 +416,19 @@ msgid ""
 "the young, passing by generation on generation the proud Aragwaithi martial "
 "traditions."
 msgstr ""
+"Мастера клинка не получают свой титул \"со дня на день\". Они провели годы в "
+"тяжелейшей военной подготовке эрагвийцев, и пережили множество страшнейших "
+"битв. Об их мастерстве обращения с клинками говорят с придыханием, со слов "
+"немногих врагов, которые встречались с ними в бою - и выжили.\n"
+"\n"
+"Заслужив это звание, мастера клинка берут ответственность за инструктаж "
+"юношей, передавая от поколения к поколению гордость боевых традиций "
+"эрагвийцев."
 
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Swordsman.cfg:5
 msgid "Swordsman"
-msgstr ""
+msgstr "Меченосец"
 
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Swordsman.cfg:19
@@ -354,11 +438,15 @@ msgid ""
 "military, make for superb swordsmen. Swordsmen are clad in light chain mail "
 "- the better to resist the blades of their enemies."
 msgstr ""
+"Хотя эрагвийцы худы телом, они так же быстры и ловки. Эти способности, в "
+"совокупности с интенсивными тренировками дают эрагвийской армии совершенных "
+"меченосцев. Меченосцы облачаются в блестящие кольчуги - что бы лучше "
+"сопротивляться клинкам своих врагов."
 
 #. [unit_type]: id=Aragwaith Witch, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Witch.cfg:6
 msgid "female^Witch"
-msgstr ""
+msgstr "Ведьма"
 
 #. [unit_type]: id=Aragwaith Witch, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Witch.cfg:80
@@ -368,21 +456,25 @@ msgid ""
 "and of course in magic. Wielding powerful fire and possessing a healing "
 "touch, witchs are the noblest of a noble people."
 msgstr ""
+"Одарённые магическими талантами, некоторые из эрагвийцев участвуют не только "
+"в боевых тренировках, обычных для их общества, но так же изучают искусство "
+"исцеления и, конечно, магии. Владея мощным огнём и одарённые исцеляющим "
+"прикосновением, ведьмы - самые почитаемые из благородных людей."
 
 #. [attack]: type=impact
 #: The_Aragwaithi/units/Aragwaith_Witch.cfg:129
 msgid "kick"
-msgstr ""
+msgstr "пнуть"
 
 #. [unit_type]: id=Aragwaith Wizard, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Wizard.cfg:5
 msgid "female^Wizard"
-msgstr ""
+msgstr "Маг"
 
 #. [attacks]: id=attack_only
 #: The_Aragwaithi/utils.cfg:6 The_Aragwaithi/utils.cfg:7
 msgid "attack only"
-msgstr ""
+msgstr "только атака"
 
 #. [attacks]: id=attack_only
 #: The_Aragwaithi/utils.cfg:8 The_Aragwaithi/utils.cfg:10
@@ -390,10 +482,12 @@ msgid ""
 "Attack only:\n"
 "This weapon will never be used on defense."
 msgstr ""
+"Только атака:\n"
+"Это оружие не может быть использовано при защите."
 
 #: The_Aragwaithi/utils.cfg:28
 msgid "protection"
-msgstr ""
+msgstr "прикрытие"
 
 #: The_Aragwaithi/utils.cfg:29
 msgid ""
@@ -401,24 +495,33 @@ msgid ""
 "Adjacent units of level 1 or below from this side receive a +20% bonus to "
 "all resistances (up to a maximum of 50%)."
 msgstr ""
+"Прикрытие:\n"
+"У стоящих рядом воинов 1-го уровня или имеющих уровень ниже чем у этого "
+"бойца на 20%  возрастает сопротивляемость ко всем видам атак (но не более "
+"чем до 50%)."
 
 #: The_Aragwaithi/utils.cfg:49
 msgid "precision"
-msgstr ""
+msgstr "меткость"
 
 #: The_Aragwaithi/utils.cfg:50
 msgid ""
 "When used offensively, this attack always has at least a 50% chance to hit."
 msgstr ""
+"При нападении данная атака всегда имеет как минимум 50% шанс нанести ущерб."
 
 #: The_Aragwaithi/utils.cfg:58
 msgid ""
 "This unit can protect those of level 0 and 1 around them, granting them "
 "extra resistances."
 msgstr ""
+"Этот боец может защищать других, уровня 0 и 1 вокруг него, давая им "
+"дополнительное сопротивление."
 
 #: The_Aragwaithi/utils.cfg:61
 msgid ""
 " This unit can attack very precisely, giving it a better chance to hit agile "
 "foes on the offense."
 msgstr ""
+"Этот боец может атаковать очень метко, получая лучшие шансы попасть во врага "
+"при нападении."
